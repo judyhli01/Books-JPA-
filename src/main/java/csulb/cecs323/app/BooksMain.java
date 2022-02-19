@@ -1,7 +1,7 @@
 /**
  The main class
  Homework Assignment: BOOKS
- @author Judy Li, Kenneth Valero, Ron Riley Co
+ @author Judy Li
  @version 1.01 10/29/2021
  */
 
